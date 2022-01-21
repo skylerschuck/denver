@@ -1,0 +1,78 @@
+QUESTION,INSTRUMENT_ID,ANSWER_ID,ANSWER_TEXT,ESTIMATE_PERCENTAGE
+"Overall, how has this business been affected by the Coronavirus pandemic?",2,1,Large negative effect,20.5%
+"Overall, how has this business been affected by the Coronavirus pandemic?",2,2,Moderate negative effect,46.2%
+"Overall, how has this business been affected by the Coronavirus pandemic?",2,3,Little or no effect,25.9%
+"In the last month, what were the total operating revenues/sales/receipts for this business, not including any financial assistance or loans?",3,4,"$5,001 - $15,000",11.5%
+"In the last month, what were the total operating revenues/sales/receipts for this business, not including any financial assistance or loans?",3,5,"$15,001 - $50,000",15.4%
+"In the last month, what were the total operating revenues/sales/receipts for this business, not including any financial assistance or loans?",3,6,"$50,001 - $125,000",17.2%
+"In the last month, what were the total operating revenues/sales/receipts for this business, not including any financial assistance or loans?",3,7,"$125,001 - $200,000",12.9%
+"In the last month, what were the total operating revenues/sales/receipts for this business, not including any financial assistance or loans?",3,8,"$200,001 - $500,000",12.6%
+"In the last month, what were the total operating revenues/sales/receipts for this business, not including any financial assistance or loans?",3,9,"$500,001 or more",12.3%
+"In the last week, did this business have a change in operating revenues/sales/receipts, not including any financial assistance or loans?",4,2,"Yes, decreased",28.6%
+"In the last week, did this business have a change in operating revenues/sales/receipts, not including any financial assistance or loans?",4,3,No change,67.3%
+"In the last week, did this business do any of the following?",5,4,None of the above,96.3%
+"In the last week, did this business have a change in the number of paid employees?",6,1,"Yes, increased",7.7%
+"In the last week, did this business have a change in the number of paid employees?",6,2,"Yes, decreased",11.9%
+"In the last week, did this business have a change in the number of paid employees?",6,3,No change,80.5%
+"In the last week, did this business have a change in the total number of hours worked by paid employees?",7,2,"Yes, decreased",19.8%
+"In the last week, did this business have a change in the total number of hours worked by paid employees?",7,3,No change,73.4%
+"In the last week, did this business require employees to have proof of COVID-19 vaccination before physically coming to work?",8,1,Yes,15.4%
+"In the last week, did this business require employees to have proof of COVID-19 vaccination before physically coming to work?",8,2,No,61.7%
+"In the last week, did this business require employees to have proof of COVID-19 vaccination before physically coming to work?",8,3,"Not applicable, this business did not have employees physically coming to work in the last week.",22.9%
+"In the last week, did this business require employees to test negative for COVID-19 before physically coming to work?",9,1,Yes,14.9%
+"In the last week, did this business require employees to test negative for COVID-19 before physically coming to work?",9,2,No,63.0%
+"In the last week, did this business require employees to test negative for COVID-19 before physically coming to work?",9,3,"Not applicable, this business did not have employees physically coming to work in the last week.",22.1%
+"In the last week, did this business have difficulties hiring paid employees?",10,1,Yes,30.6%
+"In the last week, did this business have difficulties hiring paid employees?",10,2,No,27.9%
+"In the last week, did this business have difficulties hiring paid employees?",10,3,Not applicable,41.5%
+"In the last week, did this business have any of the following?",11,1,Domestic supplier delays,39.9%
+"In the last week, did this business have any of the following?",11,2,Foreign supplier delays,18.0%
+"In the last week, did this business have any of the following?",11,3,Difficulty locating alternate domestic suppliers,18.8%
+"In the last week, did this business have any of the following?",11,4,Difficulty locating alternate foreign suppliers,7.4%
+"In the last week, did this business have any of the following?",11,5,Production delays at this business,11.4%
+"In the last week, did this business have any of the following?",11,6,Delays in delivery / shipping to customers,22.4%
+"In the last week, did this business have any of the following?",11,7,None of the above,55.5%
+How would you describe the current availability of cash on hand for this business?,12,2,1-2 weeks of business operations,7.9%
+How would you describe the current availability of cash on hand for this business?,12,3,3-4 weeks of business operations,15.8%
+How would you describe the current availability of cash on hand for this business?,12,4,1-2 months of business operations,21.1%
+How would you describe the current availability of cash on hand for this business?,12,5,3 or more months of business operations,31.5%
+How would you describe the current availability of cash on hand for this business?,12,7,Don't know,13.8%
+"The White House declared a national emergency because of the Coronavirus pandemic on March 13, 2020. Comparing now to what was normal before March 13, 2020, how has the number of paid employees at this business changed?",13,2,Moderate increase in number of paid employees,7.6%
+"The White House declared a national emergency because of the Coronavirus pandemic on March 13, 2020. Comparing now to what was normal before March 13, 2020, how has the number of paid employees at this business changed?",13,3,Little or no change in number of paid employees,63.4%
+"The White House declared a national emergency because of the Coronavirus pandemic on March 13, 2020. Comparing now to what was normal before March 13, 2020, how has the number of paid employees at this business changed?",13,4,Moderate decrease in number of paid employees,20.5%
+"Comparing now to what was normal before March 13, 2020, how has the number of hours paid employees worked from home changed?",14,1,Large increase in number of hours worked from home,9.1%
+"Comparing now to what was normal before March 13, 2020, how has the number of hours paid employees worked from home changed?",14,2,Moderate increase in number of hours worked from home,10.9%
+"Comparing now to what was normal before March 13, 2020, how has the number of hours paid employees worked from home changed?",14,3,Little or no change in number of hours worked from home,72.0%
+"Comparing now to what was normal before March 13, 2020, how has demand for this business's goods or services changed?",15,2,Moderate increase in demand,23.2%
+"Comparing now to what was normal before March 13, 2020, how has demand for this business's goods or services changed?",15,3,Little or no change in demand,41.9%
+"Comparing now to what was normal before March 13, 2020, how has demand for this business's goods or services changed?",15,4,Moderate decrease in demand,18.9%
+"Comparing now to what was normal before March 13, 2020, how has demand for this business's goods or services changed?",15,5,Large decrease in demand,8.9%
+"Comparing now to what was normal before March 13, 2020, how have the prices this business pays for goods and services changed?",16,1,Large increase in prices,34.9%
+"Comparing now to what was normal before March 13, 2020, how have the prices this business pays for goods and services changed?",16,2,Moderate increase in prices,40.1%
+"Comparing now to what was normal before March 13, 2020, how have the prices this business pays for goods and services changed?",16,3,Little or no change in prices,24.5%
+"Comparing now to what was normal before March 13, 2020, has this business done any of the following?",17,1,Adopted or expanded use of digital technologies,32.1%
+"Comparing now to what was normal before March 13, 2020, has this business done any of the following?",17,2,Changed management practices,26.6%
+"Comparing now to what was normal before March 13, 2020, has this business done any of the following?",17,3,Changed business strategies,35.1%
+"Comparing now to what was normal before March 13, 2020, has this business done any of the following?",17,4,Introduced new goods or services,15.7%
+"Comparing now to what was normal before March 13, 2020, has this business done any of the following?",17,5,Improved existing goods or services,18.6%
+"Comparing now to what was normal before March 13, 2020, has this business done any of the following?",17,6,Improved methods of producing goods or services,14.3%
+"Comparing now to what was normal before March 13, 2020, has this business done any of the following?",17,7,"Improved methods of logistics, delivery, or distribution",11.5%
+"Comparing now to what was normal before March 13, 2020, has this business done any of the following?",17,8,This business has not made any of these changes,43.6%
+"Since December 27, 2020, has this business received financial assistance from any of the following sources?",18,1,Paycheck Protection Program (PPP) loan forgiveness,48.6%
+"Since December 27, 2020, has this business received financial assistance from any of the following sources?",18,2,Economic Injury Disaster Loans (EIDL),11.5%
+"Since December 27, 2020, has this business received financial assistance from any of the following sources?",18,7,"This business has not received financial assistance from any source since December 27, 2020.",46.0%
+"In the next 6 months, do you think this business will have business travel expenditures for air, rail, car rental, or lodging?",19,1,Yes,37.5%
+"In the next 6 months, do you think this business will have business travel expenditures for air, rail, car rental, or lodging?",19,2,No,29.0%
+"In the next 6 months, do you think this business will have business travel expenditures for air, rail, car rental, or lodging?",19,3,"Not applicable, this business does not usually have business travel expenditures.",33.5%
+"In the next 6 months, do you think this business will need to do any of the following?",20,1,Obtain financial assistance or additional capital,11.8%
+"In the next 6 months, do you think this business will need to do any of the following?",20,2,Identify new supply chain options,19.3%
+"In the next 6 months, do you think this business will need to do any of the following?",20,3,Develop online sales or websites,10.0%
+"In the next 6 months, do you think this business will need to do any of the following?",20,4,Increase marketing or sales,31.4%
+"In the next 6 months, do you think this business will need to do any of the following?",20,5,Identify and hire new employees,38.1%
+"In the next 6 months, do you think this business will need to do any of the following?",20,6,Make a capital expenditure,14.2%
+"In the next 6 months, do you think this business will need to do any of the following?",20,7,Cancel or postpone a planned capital expenditure,10.2%
+"In the next 6 months, do you think this business will need to do any of the following?",20,10,None of the above,36.0%
+"In your opinion, how much time do you think will pass before this business returns to its normal level of operations?",21,4,More than 6 months,35.1%
+"In your opinion, how much time do you think will pass before this business returns to its normal level of operations?",21,5,I do not believe this business will return to its normal level of operations.,15.6%
+"In your opinion, how much time do you think will pass before this business returns to its normal level of operations?",21,7,There has been little or no effect on this business's normal level of operations.,21.8%
+"In your opinion, how much time do you think will pass before this business returns to its normal level of operations?",21,8,This business has returned to its normal level of operations.,15.8%
